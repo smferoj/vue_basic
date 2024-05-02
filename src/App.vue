@@ -1,12 +1,12 @@
 <script setup>
- import MyComponent from './components/MyComponent.vue';
- import VBind from './components/VBind.vue';
+//  import MyEvent from './components/MyEvent.vue';
+ import MyForm from './components/MyForm.vue'
  
 </script>
 
 <template>
-<MyComponent/>
-<VBind/>
+<!-- <MyEvent /> -->
+ <MyForm /> 
 </template>
 
 
