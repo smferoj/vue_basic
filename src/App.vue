@@ -1,13 +1,14 @@
 <script setup>
- import HelloWorld from './components/HelloWorld.vue';
+ import MyComponent from './components/MyComponent.vue';
+ import VBind from './components/VBind.vue';
+ 
 </script>
 
 <template>
-
-<HelloWorld/>
-
-
+<MyComponent/>
+<VBind/>
 </template>
+
 
 <style scoped>
 
